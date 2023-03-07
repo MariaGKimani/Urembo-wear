@@ -1,0 +1,88 @@
+body{
+    background-color: aliceblue;
+     /* background-image: url(images/cloth2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat; */
+}
+.main{
+    /* background-image: url(images/cloth2.jpg); */
+    background-image: url(images/gif2-unscreen.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: ch;
+}
+.div1{
+    display: flex;
+    gap: 690px;
+}
+nav li{
+    list-style: none;
+    display: flex;
+}
+.nav1{
+    display: flex;
+    gap: 80px;
+    /* margin-left: 10%; */
+}
+.nav2{
+    gap: 40px;
+
+}
+.div2{
+     display: flex;
+     gap: 50px; 
+} 
+#img11{
+    margin-left: 7%;
+}
+.ptag{
+    font-weight: 20;
+    font-size: 50px;
+}
+.btn1{
+    background-color: aqua;
+    margin: 30%;
+}
+.main2{
+    display: flex;
+    gap: 50px;
+    margin: 10%;
+}
+.trial{
+    display: flex;
+    gap: 20px;
+}
+.spanner{
+    font-size: 40px;
+    font-weight: 100;
+}
+.trial1{
+    display: flex;
+    gap: 20px;
+}
+.trial2{
+    display: flex;
+    gap: 20px;
+}
+.bestcollection{
+    display: flex;
+    gap: 420px;
+}
+.sct2 h3{
+    text-align: center;
+}
+.last{
+    margin: 10%;
+    background-color: #dee2e6;
+    padding: 50px;
+    text-align: center;
+}
+.btn9{
+    background-color: black;
+    color: whitesmoke;
+    padding: 7px;
+}
+.bestc{
+    display: flex;
+    gap: 170px;
+}
